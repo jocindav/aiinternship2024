@@ -1,4 +1,4 @@
-# AI internship2 024
+# AI internship 2024
 
 ## 2024
 
